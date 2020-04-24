@@ -1,0 +1,30 @@
+*{
+    font-family: Consolas;
+}
+.green{
+    color: greenyellow;
+}
+
+.black{
+    background-color: black;
+}
+
+.bgreen{
+    background-color: greenyellow;
+}
+
+.line{
+    border-bottom: 3px solid greenyellow;
+}
+
+.success{
+    font-family: Times,;
+    /* font-style: italic; */
+    font-weight: bold;
+    font-size: 30px;
+    color: greenyellow;
+}
+
+.Fira{
+ border: 1px solid greenyellow;
+}

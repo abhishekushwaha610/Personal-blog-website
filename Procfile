@@ -1,0 +1,1 @@
+web: gunicorn abhi.wsgi:application --log-file -
